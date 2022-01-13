@@ -2,7 +2,7 @@
 
 Hey, I’m Ender, a Data Scientist living in Berlin.
 
-Previously, I worked for Microsoft, SoftwareONE and Oracle. I have a MSC degree in Data Science at Hochschüle für Technik und Wirtschaft in Berlin.
+Previously, I worked for Microsoft, SoftwareONE and Oracle. I hold an MSc degree in Data Science at Hochschüle für Technik und Wirtschaft in Berlin.
 
 In my last assignment, I developed an AI-driven Recommender System for Deutsche Telekom on T-Labs Artificial Intelligence team.
 

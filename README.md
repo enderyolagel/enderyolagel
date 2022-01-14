@@ -1,8 +1,8 @@
-# Data Scientist & Consultant
+# Data Scientist & Analytics Consultant
 
-Hey, I’m Ender, a Data Scientist living in Berlin.
+Hey, I’m Ender, a Data Scientist and Analytics Consultant living in Berlin.
 
-Previously, I worked for Microsoft, SoftwareONE and Oracle. I hold an MSc degree in Data Science at Hochschüle für Technik und Wirtschaft in Berlin.
+Previously, I worked for Microsoft, SoftwareONE and Oracle. I hold my Master of Science degree in Data Science at Hochschüle für Technik und Wirtschaft in Berlin.
 
 In my last assignment, I developed an AI-driven Recommender System for Deutsche Telekom on T-Labs Artificial Intelligence team.
 
@@ -26,7 +26,8 @@ Bayesian Analysis • Machine Learning • Deep Learning • Recommender Systems
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="LINUX" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>

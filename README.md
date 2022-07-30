@@ -1,4 +1,4 @@
-# Data Scientist & Analytics Consultant
+# Data Scientist & ML Engineer 
 
 Hey, I’m Ender, a Data Scientist and ML Engineer living in Berlin.
 

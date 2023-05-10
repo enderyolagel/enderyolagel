@@ -1,18 +1,16 @@
-# Data Scientist & ML Engineer 
+# Senior ML Engineer
 
-Hey, I’m Ender, a Data Scientist and ML Engineer living in Berlin.
+ML Engineer and Technical Consultant with 9 years of experience in AI powered applications and services, data, cloud solutions in Retail, E-Commerce, Financial Services and Digital Native Businesses deploying solutions across the US, EU, MEA and AU markets.
 
-Currently, I work at Marley Spoon as a full stack data scientist. I design, develop, deploy and maintain ML pipelines in production for all Marley Spoon brands and territories across the globe.
+Our team in Marley Spoon serves all company brands in the EU, US & Australia. We work closely with business stakeholders, product managers and software engineers, leading the way in building machine learning powered applications from experimentation through to live production.
 
-Previously, I developed a Graph Neural Network-based Recommender System for Deutsche Telekom on T-Labs Artificial Intelligence team. Before that, I worked for Microsoft, SoftwareONE and Oracle. 
+Our stack is AWS, Snowflake, AirFlow, Kafka, Kubernetes, Docker, Feast, DataDog, Kibana, Great Expectations, GitHub Actions, PyTest, Terraform, Looker. Here, I design, implement, test, deploy & maintain ML pipelines in production environment.
 
-I hold my Master of Science degree in Data Science at Hochschüle für Technik und Wirtschaft in Berlin.
-
-Outside of work, I like playing guitar and improving myself at sound engineering and music production.
+Outside of work, I play guitar and work on music production and audio engineering.
 
 ## Interests
 
-MLOps • Deep Learning • Recommender Systems • Natural Language Processing • Computer Vision • Good Old Traditional ML :)
+MLOps • RecSys • LLMs
 
 ## Contact
 
